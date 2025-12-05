@@ -1,0 +1,20 @@
+quran-memorization-system/
+│
+├── index.html              # الصفحة الرئيسية
+├── style.css               # أنماط الموقع
+├── script.js               # الوظائف الأساسية
+├── excel-interface.js      # تفاعل مع ملفات Excel
+│
+├── data/                   # مجلد ملفات Excel
+│   ├── students.xlsx       # بيانات الطلاب
+│   ├── teachers.xlsx       # بيانات المعلمين
+│   ├── classes.xlsx        # بيانات الحصص
+│   └── progress.xlsx       # تقدم الطلاب
+│
+├── pages/                  # صفحات إضافية
+│   ├── students.html       # صفحة إدارة الطلاب
+│   ├── teachers.html       # صفحة إدارة المعلمين
+│   ├── schedule.html       # جدول الحصص
+│   └── reports.html        # التقارير والإحصائيات
+│
+└── README.md               # تعليمات الاستخدام
